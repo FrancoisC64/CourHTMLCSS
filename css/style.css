@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Source+Serif+Pro');
+h2
+{
+	color: #666666;
+}
+#abaspage
+{
+	color: green;
+}
+.imageflotante
+{
+	float: left;
+}
+.finflot
+{
+	clear: both;
+}
+h1,p
+{
+	color: #333333;
+}
+p
+{
+	font-family: 'Source Serif Pro', serif;
+	text-align: justify;
+}
+ul
+{
+	color: #1256A3;
+	font-family: 'Dancing Script', cursive;
+}
