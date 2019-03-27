@@ -30,7 +30,7 @@ De maniere generale il faudra mettre dans le html uniquement les information de 
 
 `<img src="path/image" alt="text image of what">` balise inserant une image dans la page l'image doit avoir un interet informatif en rapport avec l'article sinon il faudra inserer l'image en css. l'attribut `src` doit contenir le chemin relatif ou absolu de l'image. L'attribut `atl` contient une description de l'image important pour obtenir la validation par le w3c
 
-`<a href="cible" target="option" > </a>` lien cliquable menant vers la cible `href`. Target defini le comportement de l'ouverture du lien ex:`\_blank` pour ouvrir un nouvelle page. La cible peut etre une URL, un chemin relatif ou absolu vers un fichier ou un `id` avec `#idname`.
+`<a href="cible" target="option" > </a>` lien cliquable menant vers la cible `href`. Target defini le comportement de l'ouverture du lien ex:`_blank` pour ouvrir un nouvelle page. La cible peut etre une URL, un chemin relatif ou absolu vers un fichier ou un `id` avec `#idname`.
  
 Liste non ordonnee : 
 ```
