@@ -7,6 +7,7 @@ selecteur
 {
 	attribut: "valeur" ;
 }
+```
 ## Les selecteurs simple :
 - Le nom des balises par exemple : `p` `body` `h1` etc...
 - Les id exemple : `#idname`
