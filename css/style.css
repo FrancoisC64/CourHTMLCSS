@@ -1,7 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Source+Serif+Pro');
+body
+{
+	background-image: url("../img/background.jpeg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
 h2
 {
 	color: #666666;
+	background-color: #123456;
 }
 #abaspage
 {

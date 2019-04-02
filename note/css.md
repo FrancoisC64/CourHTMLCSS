@@ -16,5 +16,5 @@ selecteur
 - cibler plusieurs selecteur separe : `selecteur1,selecteur2` exemple : `p,h1`
 - cibler des selecteurs imbrique : `selecteur1 selecteur2` exemple : `p strong`
 ## Les import 
-Les `@import` importe des feuilles de style et de bibliotheque en ligne notamment pour les font syntaxe : `@import url("")`
+Les `@import` importe des feuilles de style et de bibliotheque en ligne CDN (Content Delivery Network) notamment pour les font syntaxe : `@import url("")`
 
